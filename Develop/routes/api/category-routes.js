@@ -18,7 +18,7 @@ router.get('/', (req, res) => {
 router.get('/:id', (req, res) => {
   // find one category by its `id` value
   Category.findByPk(req.params.id, {
-    indlude: [{
+    include: [{
       model: Product
     }]
   }).then((categoryDataId) => {
