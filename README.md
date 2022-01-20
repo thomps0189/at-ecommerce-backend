@@ -44,5 +44,5 @@
 
   # Link
   - GitHub Link: https://github.com/thomps0189/at-ecommerce-backend
-  - Screencastify Link: https://watch.screencastify.com/v/5tGlnOU6uEpAZFwAdQsd
+  - Screencastify Link: https://watch.screencastify.com/v/XcnbSL26HguOxikObwqS
  
